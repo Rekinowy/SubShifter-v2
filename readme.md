@@ -20,7 +20,7 @@ SubShifter v2 is a simple program for shifting subtitles in .srt format. It allo
 
 ### Drag and Drop
 
-The program has also been compiled into an executable .exe file. You can drag and drop the subtitle file onto the program icon for quick shifting.
+The program has also been compiled into an executable .exe file. You can drag and drop the subtitle file or zip archive containing the subtitle file onto the program icon for quick shifting.
 
 After selecting the shift time, multiple files will be generated, each shifted by one second.
 

@@ -35,7 +35,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="h:\Programowanie\Python\SubShifter v2\.venv"
+VIRTUAL_ENV="H:\Programowanie\- Main Projects\SubShifter v2\.venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
